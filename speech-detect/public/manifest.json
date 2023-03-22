@@ -1,0 +1,14 @@
+{
+  "name": "React Chrome Extension",
+  "description":"convert speech to text",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action":{
+    "default_title":"React Chrome Extension",
+    "default_popup":"index.html",
+    "default_icon":{
+      "16":"logo192.png"
+    }
+  }
+    
+}
